@@ -1,4 +1,4 @@
-# 7580-CanoeJourney (v3 - Sprint 3)
+# 7580-CanoeJourney 
 
 ## MVP Demo Documentation
 
@@ -11,13 +11,12 @@ To serve as an aid for teaching language, especially for reclamation of endanger
 
 
 ## Deployment page
-[Github Page Link](https://indigigenius.github.io/CanoeJourneyTeamEast/)
-
-[Demo video]https://drive.google.com/file/d/1G2h98IIkJc0to4-NBYeV1ksEamAM6Q6i/view
 
 
-## Wireframe
-![Alt text](image.png)
+[Demo video][https://drive.google.com/file/d/1G2h98IIkJc0to4-NBYeV1ksEamAM6Q6i/view](https://drive.google.com/file/d/1_ZFmybncDRVhBIo6sfnnMgdhK85ycYGL/view?usp=sharing)
+
+
+
 
 
 ## Key Features
@@ -52,6 +51,8 @@ To serve as an aid for teaching language, especially for reclamation of endanger
     - The player starts with the canoe positioned at the bottom-centre of the screen.
     - Rocks begin to appear, and the player steers left or right using the A/D keys on the keyboard to avoid collisions.
     - Time elapsed during play is displayed at the top left-hand corner of the screen.
+3. **VoiceControl:**
+   -The player can control the boat by saying "left" or"right" by voice.    
 
 3. **End Game:**
     - The game ends when the canoe collides with a rock.
